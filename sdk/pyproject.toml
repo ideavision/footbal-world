@@ -37,7 +37,7 @@ dev = [
 [project.urls]
 "Homepage" = "https://github.com/ideavision/fowo"
 "Bug Tracker" = "https://github.com/ideavision/fowo/issues"
-"Documentation" = "https://github.com/ideavision/fowo/blob/main/README.md"
+"Documentation" = "https://github.com/ideavision/fowo/blob/master/sdk/README.md"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
